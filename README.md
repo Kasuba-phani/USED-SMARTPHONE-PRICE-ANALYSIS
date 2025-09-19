@@ -1,4 +1,4 @@
-![Project banner](Generated Image September 19, 2025 - 2_08PM.png)
+![Project banner](USPA_banner.png)
 
 Used Smartphone Price Analytics
 
