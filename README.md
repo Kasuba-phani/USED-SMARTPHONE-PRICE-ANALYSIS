@@ -1,3 +1,5 @@
+![Project banner](banner.png)
+
 Used Smartphone Price Analytics
 
 Fair prices • Smarter decisions • Stronger trust.
